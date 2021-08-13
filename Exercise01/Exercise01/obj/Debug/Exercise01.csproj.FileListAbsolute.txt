@@ -1,0 +1,4 @@
+F:\2021\TechnoBrain\Exercise01\Exercise01\bin\Debug\Exercise01.dll
+F:\2021\TechnoBrain\Exercise01\Exercise01\bin\Debug\Exercise01.pdb
+F:\2021\TechnoBrain\Exercise01\Exercise01\obj\Debug\Exercise01.dll
+F:\2021\TechnoBrain\Exercise01\Exercise01\obj\Debug\Exercise01.pdb
